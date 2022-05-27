@@ -1,14 +1,14 @@
 # Site
-title:              Miguel
-bio:                'this is the bio'
-description:        "this is the description"
+title:              Miguel Perez
+bio:                'Hi! I'm Miguel, a Ph.D. student at the Pompeu Fabra University in collaboration with Huawei'
+description:        "My areas of interests are music transcription, digital signal processing and AI applied to music creativity. Although I'm always happy to know what other people in MIR are doing."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://migperfer.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -38,10 +38,10 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 email:              miguel_on_94@hotmail.com
-twitter:            username
-github-url:         username
+twitter:            migp3rf3r
+github-url:         https://github.com/migperfer
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          username
+linkedin:          migperfer
 #xing:              username
 # instagram:          username
 #lastfm:            username
@@ -49,7 +49,7 @@ linkedin:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
