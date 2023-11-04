@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Miguel Pérez"
   avatar           : "yo-perfil.jpg"
-  bio              : "I started to play the guitar at 12, but life as a musician always looked kind of tough, so I opted for engineering. In my research, I try to reconcile both parts :D"
+  bio              : "I started to play the guitar at 12, but I eventually opted for engineering. In my research, I try to reconcile both parts :D"
   location         : "Munich"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/migperfer/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "migp3rf3r"
   vine             :
   weibo            :
   xing             :
