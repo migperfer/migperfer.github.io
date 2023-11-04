@@ -33,7 +33,7 @@ Skills
 ======
 * Signal processing
 * Python
-* Extrovert and 
+* Extrovert and team worker
 * Remarkable powerpoint presentations
 * Spanish (Native speaker); English (fluent); German (beginner)
 
