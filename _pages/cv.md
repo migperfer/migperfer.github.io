@@ -23,7 +23,7 @@ Work experience
 * March 2019 - Oct 2019
   * Erni; Embedded systems firmware testing
   * Executing tests for different devices
-  * 
+
 * University of Seville; Embedded systems firmware testing
   * May 2018 - Feb 2019 
   * Design and implement tests, and use cases
