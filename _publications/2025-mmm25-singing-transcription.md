@@ -3,7 +3,7 @@ title: "Improving singing voice transcription generalization with AI-generated a
 collection: publications
 permalink: /publication/2025-mmm25-singing-transcription
 excerpt: 'Data augmentation for singing voice-related tasks with music-realistic scenarios through AI-generated music accompaniments.'
-date: 2022-06-07
+date: 2025-01-06
 venue: 'Proceedings of the 31st Conference of Multimedia Modeling'
 paperurl: 'tbd'
 citation: 'Perez, Miguel & Kirchhoff, Holger & Grosche, Peter & Serra, Xavier (2025) &quot;Improving singing voice transcription generalization with AI-generated accompaniments &quot; <i>Proceedings of the 31st conference of Multimedia Modeling, Nara (Japan)</i>.'
