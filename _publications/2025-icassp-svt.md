@@ -6,7 +6,7 @@ excerpt: 'Data augmentation for singing voice-related tasks with music-realistic
 date: 2025-04-18
 venue: '2025 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops'
 paperurl: 'https://ieeexplore.ieee.org/document/11011167'
-citation: 'Perez, Miguel & Kirchhoff, Holger & Grosche, Peter & Serra, Xavier (2025) &quot Singing Voice Accompaniment Data Augmentation with Generative Models&quot; <i> 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Hyderabad, India, 2025, pp. 1-5</i>.'
+citation: 'Perez, Miguel & Kirchhoff, Holger & Grosche, Peter & Serra, Xavier (2025) &quot;Singing Voice Accompaniment Data Augmentation with Generative Models&quot; <i> 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Hyderabad, India, 2025, pp. 1-5</i>.'
 ---
 Singing voice transcription is a key task in Music Information Retrieval (MIR) that focuses on identifying sung notes within a music audio segment. 
 Advancing state-of-the-art methods in this area relies heavily on high-quality data, yet annotating such data is resource-intensive and requires musical expertise. 
