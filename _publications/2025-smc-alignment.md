@@ -12,4 +12,4 @@ Note-level automatic singing transcription, which involves extracting both time 
 Despite advancements in deep learning, progress is constrained by the labor-intensive task of annotating datasets, leading to ongoing data scarcity. 
 To tackle this, we introduce a novel audio-to-score alignment algorithm that effectively synchronizes timed events between score and audio. Our method not only delivers precise alignments but also includes a mechanism to evaluate their reliability. 
 Using this approach, we developed a Singing Onset Labels Extracted Automatically dataset, which facilitated training a model on a diverse range of musical genres and achieved state-of-the-art performance in singing onset estimation for pop music. 
-We plan to make both the alignment algorithm and the Singing Onset Labels Extracted Automatically dataset publicly available for use by other researchers.
+Both the alignment algorithm and the Singing Onset Labels Extracted Automatically dataset publicly available for use by other researchers.
