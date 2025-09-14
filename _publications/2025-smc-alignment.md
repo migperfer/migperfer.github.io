@@ -8,11 +8,8 @@ venue: 'Proceedings of the 22nd Sound and Music Computing Conference'
 paperurl: 'https://zenodo.org/records/15838731'
 citation: 'Perez, Miguel & Kirchhoff, Holger & Grosche, Peter & Serra, Xavier (2025) &quot;Refining audio-to-score alignment for singing voice transcription&quot; <i>Proceedings of the 22nd Sound and Music Computing Conference, Graz (Austria)</i>.'
 ---
-Singing voice transcription is a very popular task in MIR which consists of obtaining the notes being sung in a given excerpt of music audio. 
-Data is essential for state-of-the-art methods, but annotating it is labor-intensive, requiring musical expertise.
-Moreover, in cases such as pop music, sharing such data is even more challenging due to copyright and data distribution rights. 
-We present in this paper a data augmentation technique leveraging AI-generated music audio to alleviate the aforementioned data-related difficulties. 
-Specifically, we generate the music accompanying the vocals for which target notes are already known. 
-In this way, we create new mixes that maintain the harmony of the original piece while providing large variations in the audio content. 
-We conducted a set of cross-dataset experiments and discovered that our proposed approach with harmonic-matching mixes yields the best results compared to other augmentation strategies.
-The employed tools for this augmentation are open-source and ready to be used by the research community.
+Note-level automatic singing transcription, which involves extracting both time boundaries and accurate pitch from a singing voice, remains a significant challenge in Music Information Retrieval. 
+Despite advancements in deep learning, progress is constrained by the labor-intensive task of annotating datasets, leading to ongoing data scarcity. 
+To tackle this, we introduce a novel audio-to-score alignment algorithm that effectively synchronizes timed events between score and audio. Our method not only delivers precise alignments but also includes a mechanism to evaluate their reliability. 
+Using this approach, we developed a Singing Onset Labels Extracted Automatically dataset, which facilitated training a model on a diverse range of musical genres and achieved state-of-the-art performance in singing onset estimation for pop music. 
+We plan to make both the alignment algorithm and the Singing Onset Labels Extracted Automatically dataset publicly available for use by other researchers.
