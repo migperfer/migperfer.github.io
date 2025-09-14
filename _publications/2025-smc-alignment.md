@@ -3,7 +3,7 @@ title: "Refining audio-to-score alignment for singing voice transcription"
 collection: publications
 permalink: /publication/2025-smc-alignment
 excerpt: 'Audio-to-score alignment based on iterative alignment of discrete events'
-date: 2025-01-06
+date: 2025-06-03
 venue: 'Proceedings of the 22nd Sound and Music Computing Conference'
 paperurl: 'https://zenodo.org/records/15838731'
 citation: 'Perez, Miguel & Kirchhoff, Holger & Grosche, Peter & Serra, Xavier (2025) &quot;Refining audio-to-score alignment for singing voice transcription&quot; <i>Proceedings of the 22nd Sound and Music Computing Conference, Graz (Austria)</i>.'
