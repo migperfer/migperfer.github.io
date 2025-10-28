@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel Pérez"
+title                    : "Dr. Miguel Pérez"
 title_separator          : "-"
 name                     : &name "Miguel Pérez Fernández"
-description              : &description "Ph.D. student at the Music Technology Group (UPF) and Huawei. Passionate about plants and coffee."
+description              : &description "AI and audio Researcher"
 url                      : https://migperfer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "migperfer.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Miguel Pérez"
+  name             : "Dr. Miguel Pérez"
   avatar           : "yo-perfil.jpg"
   bio              : "I started to play the guitar at 12, but I eventually opted for engineering. In my research, I try to reconcile both parts :D"
   location         : "Munich"

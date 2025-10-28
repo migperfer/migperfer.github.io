@@ -17,8 +17,13 @@ Education
 
 Work experience
 ======
-* Oct 2020 - *currently*
-  * Huawei; Ph.D student & A.I. and audio researcher.
+* Oct 2020 - *Sept 2025*
+  * Huawei; A.I. and audio researcher.
+  * Extensive experience with neural networks and large language models applied to multiple audio tasks: acoustics, multimodal text-audio retrieval, music transcription, etc.
+  * Led research that produced a series of **patented neural network modules** for efficient *harmonic signal processing*, highly applicable to voice and music analysis.
+  * Developed low-latency DL prototypes to showcase our developed technologies and demos.
+  * Developed and trained models specialized in singing voice transcription.
+
 
 * March 2019 - Oct 2019
   * Erni; Embedded systems firmware testing
