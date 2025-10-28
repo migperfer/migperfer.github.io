@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D (Ongoing), 2020-(2024)
-* M.S. in Music and Sound Computing, Universitat Pompeu Fabra, 2019-2020
-* B.S. in Telecommunications Engineering, Universidad de Sevilla, 2013-2018
-
 Work experience
 ======
 * Oct 2020 - *Sept 2025*
@@ -24,23 +18,28 @@ Work experience
   * Developed low-latency DL prototypes to showcase our developed technologies and demos.
   * Developed and trained models specialized in singing voice transcription.
 
-
 * March 2019 - Oct 2019
   * Erni; Embedded systems firmware testing
   * Executing tests for different devices
 
-* University of Seville; Embedded systems firmware testing
-  * May 2018 - Feb 2019 
-  * Design and implement tests, and use cases
-  * Design of a testing framework
+* May 2018 - Feb 2019
+  * University of Seville; Embedded systems firmware testing 
+  * Design and implement tests, and use cases.
+  * Design of a testing framework for hardware devices.
+
+Education
+======
+* Ph.D, "Deep Learning approaches to singing voice transcription in pop music", Universitat Pompeu Fabra, 2020-2025
+* M.S. in Music and Sound Computing, Universitat Pompeu Fabra, 2019-2020
+* B.S. in Telecommunications Engineering, Universidad de Sevilla, 2013-2018
 
 Skills
 ======
-* Signal processing
-* Python
-* Extrovert and team worker
-* Remarkable powerpoint presentations
-* Spanish (Native speaker); English (fluent); German (beginner)
+* Signal processing.
+* Python.
+* Extrovert team worker.
+* Excellent presenter, I'm very good at transmitting ideas. 
+* Spanish (native speaker); English (fluent); German (intermediate)
 
 Publications
 ======
